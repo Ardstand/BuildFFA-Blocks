@@ -1,0 +1,6 @@
+name: BuildBlocks
+version: 1.0.0
+main: BuildBlocks\Main
+api: 3.0.0
+author: Blaze7105
+
